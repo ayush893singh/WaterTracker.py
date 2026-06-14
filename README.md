@@ -137,4 +137,4 @@ A simple Python application that tracks daily water intake, calculates goal comp
 
 Author
 
-Ayush Singh
+Ayush Singh https://github.com/ayush893singh
