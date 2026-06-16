@@ -103,38 +103,6 @@ Goal Remaining = 500 ml
 Status: Good
 
 ---
-
-Project Structure
-
-HydroTrack/
-│
-├── main.py
-└── README.md
-
----
-
-Future Improvements
-
-- Save daily records to a file
-- Weekly hydration report
-- Monthly statistics
-- Water intake reminders
-- Graphical User Interface (GUI)
-
----
-
-Repository Name
-
-hydrotrack-python
-
----
-
-Repository Description
-
-A simple Python application that tracks daily water intake, calculates goal completion percentage, and monitors hydration status.
-
----
-
 Author
 
 Ayush Singh https://github.com/ayush893singh
