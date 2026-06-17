@@ -14,7 +14,7 @@ Features
 
 ---
 
-Technologies Used
+# Technologies Used
 
 - Python
 
@@ -41,7 +41,7 @@ Installation
 
 ---
 
-How to Run
+# How to Run
 
 python main.py
 
