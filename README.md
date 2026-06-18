@@ -32,15 +32,6 @@ This project uses:
 - Output Formatting
 
 ---
-
-# Installation
-
-1. Install Python from https://www.python.org/
-2. Download or clone this repository.
-3. Open a terminal in the project folder.
-
----
-
 # How to Run
 
 python main.py
