@@ -32,11 +32,6 @@ This project uses:
 - Output Formatting
 
 ---
-# How to Run
-
-python main.py
-
----
 
 # How It Works
 
@@ -94,6 +89,5 @@ Goal Remaining = 500 ml
 Status: Good
 
 ---
-Author
-
+# Author
 Ayush Singh https://github.com/ayush893singh
