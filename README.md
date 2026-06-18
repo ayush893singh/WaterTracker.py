@@ -3,7 +3,7 @@ A simple Python project that helps users track their daily water intake and moni
 
 ---
 
-Features
+# Features
 
 - Set a daily water intake goal
 - Record morning, afternoon, and evening water consumption
@@ -20,7 +20,7 @@ Features
 
 ---
 
-Concepts Used
+# Concepts Used
 
 This project uses:
 
@@ -33,7 +33,7 @@ This project uses:
 
 ---
 
-Installation
+# Installation
 
 1. Install Python from https://www.python.org/
 2. Download or clone this repository.
@@ -47,7 +47,7 @@ python main.py
 
 ---
 
-How It Works
+# How It Works
 
 1. User enters a daily water goal in milliliters (ml).
 2. User enters water intake for:
@@ -62,7 +62,7 @@ How It Works
 
 ---
 
-Formula Used
+# Formula Used
 
 Total Water Intake
 
@@ -74,7 +74,7 @@ Percentage = (Total Water Intake / Daily Goal) × 100
 
 ---
 
-Hydration Status
+# Hydration Status
 
 Percentage| Status
 100% or more| Excellent
@@ -84,7 +84,7 @@ Below 50%| Drink More Water
 
 ---
 
-Example Output
+# Example Output
 
 ===== Daily Water Intake Tracker =====
 
